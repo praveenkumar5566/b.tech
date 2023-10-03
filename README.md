@@ -1,2 +1,2 @@
-# b.tech
+# B.tech
 eee
